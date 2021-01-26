@@ -13,7 +13,8 @@ setuptools.setup(
     install_requires=[
         "BeautifulSoup4",
         "requests",
-        "lxml"
+        "lxml",
+        "cached_property"
     ],
     long_description=long_description,
     long_description_content_type="text/markdown",
