@@ -9,7 +9,7 @@ setuptools.setup(
     author="Francisco Rodrigues",
     author_email="francisco.rodrigues0908@gmail.com",
     description="An unofficial AO3 (archiveofourown.org) API",
-    python_requires='>=3.8',
+    # python_requires='>=3.8',
     install_requires=[
         "BeautifulSoup4",
         "requests",

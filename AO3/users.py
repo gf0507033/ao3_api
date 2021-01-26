@@ -1,5 +1,5 @@
 import datetime
-from functools import cached_property
+from cached_property import cached_property
 
 import requests
 from bs4 import BeautifulSoup
